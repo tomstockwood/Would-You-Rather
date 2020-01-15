@@ -11,6 +11,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           BITCOIN BITCOIN BITCOIN
         </p>
+        <div>
+          If I have to make the css for this, we're probaly screwed. 
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
