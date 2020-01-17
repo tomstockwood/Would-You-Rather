@@ -12,7 +12,7 @@ function App() {
           BITCOIN BITCOIN BITCOIN
         </p>
         <div>
-          If I have to make the css for this, we're probaly screwed. 
+          If I have to make the css for this, we're probably screwed. 
         </div>
         <a
           className="App-link"
